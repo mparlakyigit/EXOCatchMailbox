@@ -12,3 +12,7 @@ Yapmanız gereken görselde mavi kare içerisinde bulunan değişkenleri kendi o
 - ./EXOCatchMailbox.ps1 şeklinde betiği çalıştırınız.
 - Sizden istenilen Office 365 Global admin yetkisi olan bir kullanıcı adı ve parolasını giriniz. (İlgili kullanıcının Exchange Administrator yetkisi olduğundan emin olunuz.)
 
+![catch2](https://user-images.githubusercontent.com/53214224/161404002-eadd2525-57e5-46de-8a90-5680c0adb7b2.png)
+
+Son olarak exchange admin center üzerinde Catch Mailbox  Trasnport rule başarılı bir şekilde oluşturulmuştur.
+
