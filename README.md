@@ -1,6 +1,8 @@
 # Exchange Online Catch Mailbox Create
 Bu PowerShell betiği ile Exchange Online için tüm catch mailbox süreçlerini otomatize etmenizi sağlar.
+
 ![catch](https://user-images.githubusercontent.com/53214224/161403595-4a198e04-9c68-4d20-bbec-d18ccd11d3bb.png)
+
 Yapmanız gereken görselde mavi kare içerisinde bulunan değişkenleri kendi organizasyonuza göre düzenlemektir.
 
 - PowerShell betiğini çalıştırabilmek için öncelikle PowerShell uygulamanızı yönetici olarak çalıştırınız.
