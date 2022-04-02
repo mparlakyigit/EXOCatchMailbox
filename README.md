@@ -14,5 +14,7 @@ Yapmanız gereken görselde mavi kare içerisinde bulunan değişkenleri kendi o
 
 ![catch2](https://user-images.githubusercontent.com/53214224/161404002-eadd2525-57e5-46de-8a90-5680c0adb7b2.png)
 
-Son olarak exchange admin center üzerinde Catch Mailbox  Trasnport rule başarılı bir şekilde oluşturulmuştur.
+Son olarak exchange admin center üzerinde Catch Mailbox  Trasnport rule başarılı bir şekilde oluşturulmuştur. Manuel olarak gerçekleştirilen tüm süreç bu PowerShell betiği sayesinde otomatize edilmiştir.  Catch Mailbox hakkında ayrıntılı bilgiye aşağıdaki linkten ulaşabilirsiniz.
+https://www.parlakyigit.net/office-365-organizasyonunuz-icin-catch-e-mail/
+
 
