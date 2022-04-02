@@ -5,7 +5,10 @@ Bu PowerShell betiği ile Exchange Online için tüm catch mailbox süreçlerini
 
 Yapmanız gereken görselde mavi kare içerisinde bulunan değişkenleri kendi organizasyonuza göre düzenlemektir.
 
+![catch1](https://user-images.githubusercontent.com/53214224/161403854-fa395f26-b276-4c9b-aae7-b923ff809e2d.png)
+
 - PowerShell betiğini çalıştırabilmek için öncelikle PowerShell uygulamanızı yönetici olarak çalıştırınız.
 - cd EXOCatchMailbox.ps1 dosyasının bulunduğu dizine geçiniz.
 - ./EXOCatchMailbox.ps1 şeklinde betiği çalıştırınız.
 - Sizden istenilen Office 365 Global admin yetkisi olan bir kullanıcı adı ve parolasını giriniz. (İlgili kullanıcının Exchange Administrator yetkisi olduğundan emin olunuz.)
+
